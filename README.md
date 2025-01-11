@@ -1,1 +1,3 @@
-# -python-assingment-wk1
+# python-assingment-wk1
+
+to be updated with repo description
